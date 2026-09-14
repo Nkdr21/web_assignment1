@@ -1,0 +1,119 @@
+/* BASIC TYPOGRAPHY & ELEMENTS */
+
+/* Main heading with rem sizing */
+#main-heading {
+    color: #2a1b10;
+    text-align: center;
+    font-size: 2.5rem; 
+}
+
+/* Subheading with em sizing */
+h2 {
+    color: #C1440E;
+    font-size: 1.8em; 
+}
+
+/* Image with percentage sizing */
+img {
+    width: 25%; 
+    border-radius: 15px; 
+}
+
+li {
+    color: purple; 
+    font-family: Georgia, serif; 
+}
+
+.my-class {
+    color: orange; 
+    font-family: Verdana, sans-serif;
+}
+
+#my-id {
+    color: teal; 
+    font-family: "Times New Roman", serif;
+}
+
+/* STEP 16: HTML DIVS */
+
+.header {
+    background-color: #B8E0DC;
+    padding: 20px; 
+}
+    
+.main-content {
+    background-color: #E8E4D9; 
+    padding: 20px;
+}
+
+.footer {
+    background-color: #061523; 
+    color: white; 
+    padding: 10px;
+    text-align: center; 
+}
+
+/* STEP 17: BOX MODEL */
+
+.highlight {
+    background-color: #d8ede9; 
+    border: 3px solid black;   
+    padding: 15px;             
+    margin: 20px;              
+}
+
+/* STEP 18: CSS POSITIONING */
+
+.box-static {
+    background-color: lightgray;
+    width: 200px;
+    height: 50px;
+    position: static; 
+}
+
+.box-relative {
+    background-color: lightblue;
+    width: 200px;
+    height: 50px;
+    position: relative; 
+    top: 20px; 
+    left: 30px; 
+}
+
+.box-absolute {
+    background-color: lightcoral;
+    width: 150px;
+    height: 50px;
+    position: absolute;
+    top: 100px; 
+    right: 50px; 
+}
+
+/* STEP 20: FLOAT AND CLEAR */
+
+.float-container {
+    border: 2px dashed #95a5a6; 
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.box-left {
+    float: left; 
+    width: 45%;
+    background-color: #f39c12; 
+    padding: 20px;
+    text-align: center;
+}
+
+.box-right {
+    float: right; 
+    width: 45%;
+    background-color: #3498db; 
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+
+.clear-fix {
+    clear: both; 
+}

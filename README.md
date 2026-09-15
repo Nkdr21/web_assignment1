@@ -2,12 +2,13 @@
 
 **Name:** Anuarbek Nurkadyr  
 **Group:** IT-2502  
-**Пән:** Web Technologies 1 / Front-End Development  
+**Course:** Web Technologies 1 / Front-End Development 
+**Live Website:** http://127.0.0.1:5500/index.html
 
 
 ---
 
-## 🎯 Objective
+##  Objective
 By completing this assignment, I practiced:
 *   Understanding the structure and purpose of HTML.
 *   Using basic and intermediate HTML tags to build a webpage.
@@ -19,7 +20,7 @@ By completing this assignment, I practiced:
 
 ---
 
-## 🛠️ Description of Steps Taken
+##  Description of Steps Taken
 
 ### Part 1. Introduction to HTML
 **Step 0. Basic HTML boilerplate**
@@ -78,29 +79,38 @@ Created `style.css`, linked it with `<link rel="stylesheet" href="style.css">`, 
 
 **Step 13. CSS Syntax & Selectors**
 Used element selectors (`p {}`), class selectors (`.classname {}`), and ID selectors (`#idname {}`) with different colors and fonts.
-<img width="1280" height="800" alt="telegram-cloud-photo-size-2-5278312776277369858-y" src="https://github.com/user-attachments/assets/de2c4209-d8fd-49da-96a8-f6b87e78592e" />
+<img width="1280" height="800" alt="telegram-cloud-photo-size-2-5278312776277369861-y" src="https://github.com/user-attachments/assets/23292868-2c68-487d-b2c1-0fef86ed67ea" />
 
 **Step 14. Classes vs. IDs**
 Created a `.highlight` class for multiple elements and an `#main-heading` ID for the main `<h1>`.
+<img width="1280" height="800" alt="telegram-cloud-photo-size-2-5278312776277369862-y" src="https://github.com/user-attachments/assets/0cf36228-d7df-4e57-ad85-fc39c0633496" />
 
 ### Part 4. Intermediate CSS
 **Step 15. Favicons**
 Added a favicon using `<link rel="icon" type="image/png" href="favicon.png">`.
+<img width="1280" height="800" alt="telegram-cloud-photo-size-2-5278312776277369885-y" src="https://github.com/user-attachments/assets/20184ad6-d6dd-42d3-ac91-cacec4a456a7" />
 
 **Step 16. HTML Divs**
 Used `<div>` elements to group content into header, main content, and footer sections, styled with background colors and padding.
+<img width="1280" height="800" alt="telegram-cloud-photo-size-2-5278312776277369908-y" src="https://github.com/user-attachments/assets/6d19e760-4bbb-4157-995a-b2b25d4c111d" />
 
 **Step 17. Box Model**
 Added borders, margins, and padding to several elements and experimented with different values to observe spacing effects.
+<img width="1280" height="800" alt="telegram-cloud-photo-size-2-5278312776277369915-y" src="https://github.com/user-attachments/assets/f491beff-51d5-4588-9ff6-69f2d4314aed" />
 
 **Step 18. CSS Positioning**
 Created three elements demonstrating static (default), relative (slightly shifted), and absolute (fixed relative to the page) positioning.
+<img width="1280" height="800" alt="telegram-cloud-photo-size-2-5278312776277369922-y" src="https://github.com/user-attachments/assets/be1c8926-e52b-4419-b132-dc7b811e1827" />
+<img width="1280" height="800" alt="telegram-cloud-photo-size-2-5278312776277369923-y" src="https://github.com/user-attachments/assets/08ff04e0-3ef7-48b9-bb9c-4c4880145e67" />
 
 **Step 19. CSS Sizing**
 Styled headings and images using `px`, `%`, `em`, and `rem` units.
+<img width="1280" height="800" alt="telegram-cloud-photo-size-2-5278312776277369949-y" src="https://github.com/user-attachments/assets/23598293-9457-47f4-b0e4-db0fc68f7f69" />
 
 **Step 20. Float and Clear**
 Built a layout with two boxes floated left and right, and used clear to fix overlapping.
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/630536b1-a517-4db4-a377-9795acf8554e" />
+
 
 **Step 21. Publish Your First Website**
 Published `index.html` using GitHub Pages and verified the live link works correctly.

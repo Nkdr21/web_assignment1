@@ -63,23 +63,22 @@ Created a form with Name, Email, Favorite Color inputs and a Submit button.
 ### Part 3. Introduction to CSS
 **Step 9. Intro to CSS**
 Added initial styling to the existing HTML file.
-<img width="1280" height="800" alt="telegram-cloud-photo-size-2-5278312776277369836-y" src="https://github.com/user-attachments/assets/cb26b013-96a7-4c8c-b708-18bdb887bd5c" />
 
 **Step 10. Inline CSS**
 Changed the color of one paragraph using an inline `style="color:blue;"` attribute.
-<img width="1280" height="800" alt="telegram-cloud-photo-size-2-5278312776277369852-y" src="https://github.com/user-attachments/assets/b3171b6e-a22e-4b3d-aa06-3c9a3def6ee6" />
+<img width="1280" height="800" alt="telegram-cloud-photo-size-2-5278312776277369836-y" src="https://github.com/user-attachments/assets/3225b992-ab5a-4501-8265-679f65cfc13b" />
 
 **Step 11. Internal CSS**
 Used a `<style>` block inside `<head>` to set the body background color and change the heading font.
-<img width="1280" height="800" alt="telegram-cloud-photo-size-2-5278312776277369858-y" src="https://github.com/user-attachments/assets/4fe2975b-5616-46e7-8857-748fd9c1efeb" />
+<img width="1280" height="800" alt="telegram-cloud-photo-size-2-5278312776277369852-y" src="https://github.com/user-attachments/assets/556f4c4b-b8a3-4638-a6c3-0576af19db4f" />
 
 **Step 12. External CSS**
 Created `style.css`, linked it with `<link rel="stylesheet" href="style.css">`, and moved all CSS rules into it.
-<img width="1280" height="800" alt="telegram-cloud-photo-size-2-5278312776277369861-y" src="https://github.com/user-attachments/assets/4cb97b2e-00e2-42ce-a3e7-cc6578524c54" />
+<img width="749" height="27" alt="image" src="https://github.com/user-attachments/assets/f9f31d04-fc46-41d9-ac3c-7db2d903cda8" />
 
 **Step 13. CSS Syntax & Selectors**
 Used element selectors (`p {}`), class selectors (`.classname {}`), and ID selectors (`#idname {}`) with different colors and fonts.
-<img width="1280" height="800" alt="telegram-cloud-photo-size-2-5278312776277369862-y" src="https://github.com/user-attachments/assets/3b3d18e8-3695-4ab1-8fea-79addab81878" />
+<img width="1280" height="800" alt="telegram-cloud-photo-size-2-5278312776277369858-y" src="https://github.com/user-attachments/assets/de2c4209-d8fd-49da-96a8-f6b87e78592e" />
 
 **Step 14. Classes vs. IDs**
 Created a `.highlight` class for multiple elements and an `#main-heading` ID for the main `<h1>`.

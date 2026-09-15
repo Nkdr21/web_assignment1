@@ -117,12 +117,12 @@ Published `index.html` using GitHub Pages and verified the live link works corre
 
 ---
 
-## 💭 Final Reflection
+##  Final Reflection
 Through this assignment, I successfully learned the core principles of structuring a webpage with HTML and styling it beautifully with CSS. Initially, grasping the Box Model and CSS Positioning (especially absolute vs. relative) was quite challenging. However, after practical experimentation, I fully understood how to control layout elements and prevent overlapping using float and clear. Finally, deploying my project live via GitHub Pages was a highly rewarding experience that showed me how real-world front-end development works.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 ```text
 assignment1/
 ├── index.html
